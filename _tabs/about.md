@@ -5,37 +5,110 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-# Aripravina S
-
-## Cybersecurity Learning Journal
-
-**Documenting my journey of learning cybersecurity — one concept, one lab, and one lesson at a time.**
-
----
-
-## 👋 About This Blog
+# About Me
 
 Hi, I'm **Aripravina S**, an MCA graduate from **Pondicherry University**.
 
-I started my cybersecurity journey in **2026**, beginning with the fundamentals and gradually working toward practical security operations and SOC analysis.
+My journey into cybersecurity started from a background in software development.
 
-This website is my personal cybersecurity learning journal. I created it to document what I learn throughout this journey, in my own words and from my own hands-on practice.
+During my studies, I learned **Java Full Stack development** and worked on several projects using technologies such as **Java, Spring Boot, MySQL and Angular**. Working on these projects helped me understand how applications are designed, developed and connected to databases and APIs.
 
-Instead of trying to jump directly into advanced cybersecurity tools and concepts, I'm building my knowledge step by step. I want to understand the fundamentals first, practice them, connect them to security, and then move toward more advanced security operations.
+However, while working on one of my projects, I became curious about something beyond simply building an application.
 
-This blog will grow along with my knowledge. Some posts will be simple notes, some will be practical labs, and some will document concepts that I initially found confusing and eventually understood.
+I started wondering:
 
-## 🛡️ My Cybersecurity Journey
+- How is an application protected?
+- How does authentication actually work?
+- How is sensitive information protected?
+- What happens when someone tries to access something they shouldn't?
+- How can suspicious activity be detected?
+- What happens behind the scenes during a security incident?
 
-My learning path is built around a simple idea:
+That curiosity gradually developed into a genuine interest in **cybersecurity**.
+
+I started my cybersecurity learning journey in **2026**, beginning from the fundamentals and gradually working toward **Security Operations and SOC analysis**.
+
+Rather than jumping directly into advanced cybersecurity tools, I decided to first understand the technology underneath them.
+
+That means learning how computers work, how operating systems work, how networks communicate, how authentication works, how logs are generated, and how security teams use this information to monitor and investigate environments.
+
+This website is where I document that journey.
+
+---
+
+# 💻 From Full Stack Development to Cybersecurity
+
+My earlier learning focused primarily on **software development and application building**.
+
+Through Java Full Stack development, I gained experience with technologies and concepts including:
+
+- Java
+- Spring Boot
+- MySQL
+- Angular
+- REST APIs
+- Application development
+- Authentication
+- Database interaction
+- Client-server communication
+
+Working on projects gave me an understanding of how applications are built.
+
+But cybersecurity made me interested in understanding the other side of those systems.
+
+**How are applications protected?**
+
+**How are users authenticated securely?**
+
+**How does a system know whether an action is legitimate or suspicious?**
+
+**What happens when an attacker interacts with an application or network?**
+
+**How do security teams detect and investigate such activity?**
+
+These questions were what initially drew me toward cybersecurity.
+
+My development background and cybersecurity learning are therefore connected. Software development helped me understand how applications are built, while cybersecurity is helping me understand how systems and applications can be **protected, monitored and investigated**.
+
+---
+
+# 🛡️ Why Cybersecurity?
+
+The more I explored cybersecurity, the more interested I became in understanding how different parts of technology connect.
+
+Cybersecurity isn't just about one tool or one technology.
+
+It involves computers, operating systems, networks, applications, authentication, users, logs, security controls and many other components working together.
+
+That is why I'm taking a **fundamentals-first approach**.
+
+Before moving into advanced security concepts, I want to understand the systems that generate the activity security professionals eventually have to monitor and investigate.
+
+My learning approach is:
 
 > **Understand the fundamentals → Practice them → Connect them to security → Document the learning**
 
-I'm starting from the ground up and gradually moving toward Security Operations and SOC analysis.
+---
 
-## 💻 01 — Computer & IT Fundamentals
+# 🧭 My Cybersecurity Journey
+
+I started my cybersecurity journey in **2026** and am building my knowledge step by step.
+
+My learning path currently follows:
+
+> **IT Fundamentals → Networking → Windows → Linux → Security Fundamentals → SOC → Practical Security Analysis**
+
+Each stage builds on the previous one.
+
+I'm not trying to rush through the topics simply to complete a checklist. My goal is to understand the concepts well enough to explain them in my own words and apply them through practical exercises.
+
+---
+
+# 💻 01 — Computer & IT Fundamentals
 
 Before moving deeply into cybersecurity, I'm building a strong understanding of the computer systems that security professionals work with.
+
+My learning includes:
 
 - Computer fundamentals
 - Computer hardware and components
@@ -54,9 +127,15 @@ Before moving deeply into cybersecurity, I'm building a strong understanding of 
 - Secure Boot
 - Computer ports and connectors
 
-## 🌐 02 — Networking Fundamentals
+The purpose of this stage is to understand the basic systems and components that exist before looking at how they are secured.
 
-Networking is one of the most important foundations of cybersecurity. A SOC analyst needs to understand how devices communicate before being able to understand suspicious network activity.
+---
+
+# 🌐 02 — Networking Fundamentals
+
+Networking is one of the most important foundations of my cybersecurity learning.
+
+A SOC analyst needs to understand how devices communicate before being able to understand suspicious network activity.
 
 My networking learning path includes:
 
@@ -93,11 +172,17 @@ My networking learning path includes:
 - Wireshark
 - Basic packet analysis
 
-The goal isn't simply to memorize networking terms. I want to understand what actually happens when data travels from one device to another and how that knowledge can be applied during security monitoring and investigation.
+The goal isn't simply to memorize networking terms.
 
-## 🪟 03 — Windows & Active Directory
+I want to understand what actually happens when data travels from one device to another and how that knowledge can later be applied during security monitoring and investigation.
 
-Windows environments are widely used in organizations, so understanding Windows administration and Active Directory is an important part of my cybersecurity foundation.
+---
+
+# 🪟 03 — Windows & Active Directory
+
+Windows environments are widely used in organizations, making Windows and Active Directory important parts of my cybersecurity foundation.
+
+My learning includes:
 
 - Windows fundamentals
 - Windows file system
@@ -122,9 +207,17 @@ Windows environments are widely used in organizations, so understanding Windows 
 - Windows Remote Management
 - Remote Desktop Protocol
 
-## 🐧 04 — Linux Fundamentals
+The goal is to understand how Windows systems and organizational environments work before moving into deeper security monitoring and investigation.
 
-Linux is another important operating system environment in cybersecurity. I'll use an Ubuntu virtual machine to practice Linux concepts instead of relying only on theory.
+---
+
+# 🐧 04 — Linux Fundamentals
+
+Linux is another important operating system environment in cybersecurity.
+
+I'll be using an **Ubuntu virtual machine** to practice Linux concepts instead of relying only on theory.
+
+My learning includes:
 
 - Linux filesystem hierarchy
 - Users and groups
@@ -144,9 +237,15 @@ Linux is another important operating system environment in cybersecurity. I'll u
 - `uniq`
 - Linux log analysis
 
-## 🔐 05 — Security Fundamentals
+The goal is to become comfortable working with the Linux command line, understanding system activity and eventually analyzing Linux logs.
+
+---
+
+# 🔐 05 — Security Fundamentals
 
 Once the networking, Windows and Linux foundations are in place, I'll connect those concepts to core cybersecurity principles.
+
+My learning path includes:
 
 - CIA Triad
 - Authentication
@@ -173,11 +272,17 @@ Once the networking, Windows and Linux foundations are in place, I'll connect th
 - DLP
 - NAC
 
-## 🔎 06 — SOC & Security Operations
+This stage is where the technical foundations I've learned begin connecting directly to cybersecurity concepts.
 
-After building the fundamentals, I'll move toward practical security operations and SOC analysis.
+---
 
-This stage will focus on understanding how security teams monitor environments, investigate alerts, analyze logs and identify potentially suspicious activity.
+# 🔎 06 — SOC & Security Operations
+
+My current long-term direction is toward **Security Operations and SOC analysis**.
+
+After building the fundamentals, I'll gradually move into understanding how security teams monitor environments, investigate alerts, analyze logs and identify potentially suspicious activity.
+
+Topics will include:
 
 - Security monitoring
 - Security logs
@@ -198,7 +303,9 @@ This stage will focus on understanding how security teams monitor environments, 
 
 The deeper attack and investigation concepts will come after I have the fundamentals needed to understand them properly.
 
-## 🧪 Hands-On Learning
+---
+
+# 🧪 Learning Through Practice
 
 I don't want this blog to become a collection of definitions copied from different resources.
 
@@ -231,54 +338,77 @@ Whenever possible, I'll combine my learning with practical work.
 - Alert investigation
 - Incident investigation exercises
 
-## 📝 What You'll Find Here
-
-This blog is primarily a record of my learning process. As I progress, I'll be publishing posts about the topics I study and the practical exercises I complete.
-
-- **📚 Learning Notes**  
-  Concepts explained in my own words after studying them.
-
-- **🌐 Networking Notes**  
-  Protocols, ports, IP addressing, packet flow and networking concepts.
-
-- **🪟 Windows & Linux Notes**  
-  Operating-system concepts, commands, permissions, processes and logs.
-
-- **🔬 Lab Notes**  
-  Practical experiments, exercises and observations.
-
-- **🔎 SOC Notes**  
-  Security monitoring, alerts, logs and investigation exercises as I progress into SOC learning.
-
-- **🧠 Lessons Learned**  
-  Concepts that confused me, mistakes I made and how I eventually understood them.
-
-## 🚀 My Learning Path
-
-I'm intentionally starting from the fundamentals instead of jumping directly into advanced cybersecurity tools.
-
-My current roadmap is:
-
-> **IT Fundamentals → Networking → Windows → Linux → Security Fundamentals → SOC → Practical Security Analysis**
-
-This roadmap will evolve as my knowledge and practical experience grow. The purpose of this blog is to document that evolution rather than present a finished version of myself.
-
-## 🌱 Why I'm Documenting This Journey
-
-Cybersecurity is a huge field, and there is always another technology, protocol, vulnerability, tool or framework to learn.
-
-Instead of trying to learn everything at once, I'm focusing on understanding one topic at a time and building a strong foundation.
-
-Writing about what I learn helps me identify gaps in my understanding, remember concepts better, and see how different areas of technology connect with cybersecurity.
-
-This blog is therefore not just a collection of notes. It is a record of the process — including the things I understand, the things I struggle with, the mistakes I make, and the progress I make along the way.
+My aim is to understand not only **what something is**, but also **how it works and how it can be observed in a real environment**.
 
 ---
 
-## 👣 One Concept at a Time
+# 📝 Why I'm Documenting This Journey
 
-I'm starting this journey from the basics and building upward.
+Cybersecurity is a huge field, and there is always another technology, protocol, vulnerability, tool or framework to learn.
 
-**One concept. One lab. One lesson at a time.**
+Instead of trying to learn everything at once, I'm focusing on understanding **one topic at a time** and building a strong foundation.
+
+Writing about what I learn helps me:
+
+- Reinforce concepts
+- Identify gaps in my understanding
+- Remember what I studied
+- Connect different areas of technology
+- Track my progress
+- Explain concepts in my own words
+
+Some posts may be simple notes.
+
+Some may be practical labs.
+
+Some may document concepts that initially confused me and how I eventually understood them.
+
+Some may contain mistakes or lessons that become part of the learning process.
+
+This blog is therefore not a finished portfolio of expertise.
+
+It is a record of **learning in progress**.
+
+---
+
+# 📚 What You'll Find on This Blog
+
+As I progress, I'll be publishing posts covering different parts of my learning journey.
+
+### 📖 Learning Notes
+
+Concepts explained in my own words after studying them.
+
+### 🌐 Networking Notes
+
+IP addressing, protocols, ports, packet flow and other networking concepts.
+
+### 🪟 Windows & Linux Notes
+
+Operating-system concepts, commands, permissions, processes and logs.
+
+### 🧪 Lab Notes
+
+Practical exercises, experiments and observations.
+
+### 🔎 SOC Notes
+
+Security monitoring, alerts, logs and investigation exercises as I progress into SOC learning.
+
+### 🧠 Lessons Learned
+
+Things that confused me, mistakes I made and what helped me understand them.
+
+---
+
+# 🌱 One Concept at a Time
+
+I'm starting this journey from the fundamentals and building upward.
+
+I don't expect to understand everything immediately.
+
+The goal is to keep learning, keep practicing and keep improving.
+
+> **One concept. One lab. One lesson at a time.**
 
 Welcome to my cybersecurity learning journey.
