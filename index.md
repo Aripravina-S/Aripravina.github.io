@@ -9,7 +9,7 @@ title: Home
 
 **Documenting my journey from cybersecurity fundamentals to practical SOC analysis — one concept, one lab, and one lesson at a time.**
 
-[ **Read the Blog →** ](/posts/)
+[ **Read the Blog →** ]({{ '/archives/' | relative_url }})
 
 ---
 
@@ -21,7 +21,7 @@ I'm currently building my cybersecurity knowledge from the ground up, starting w
 
 This blog is my personal learning journal where I document what I study, the labs I practice, and the lessons I learn along the way.
 
-[ **More About Me →** ](/about/)
+[ **More About Me →** ]({{ '/about/' | relative_url }})
 
 ---
 
@@ -67,7 +67,7 @@ The latest lessons from my cybersecurity learning journey will appear here.
 
 {% endfor %}
 
-[ **View All Posts →** ](/posts/)
+[ **View All Posts →** ]({{ '/archives/' | relative_url }})
 
 ---
 
