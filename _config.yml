@@ -90,7 +90,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/avatar.jpg"
+avatar:
 
 social_preview_image: # string, local or CORS resources
 
