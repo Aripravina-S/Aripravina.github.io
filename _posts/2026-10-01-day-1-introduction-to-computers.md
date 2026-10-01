@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 1 — Introduction to Computers"
-date: 2026-09-24 18:00:00 +0530
+date: 2026-10-01 20:10:00 +0530
 categories:
   - Computer Fundamentals
 tags:
