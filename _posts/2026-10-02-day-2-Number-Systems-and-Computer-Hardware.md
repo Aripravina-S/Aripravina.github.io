@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 2 — Number Systems and Computer Hardware"
-date: 2026-10-02 17:08:00 +0530
+date: 2026-10-02 17:10:00 +0530
 categories:
   - Computer Fundamentals
 tags:
