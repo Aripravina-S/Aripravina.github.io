@@ -105,10 +105,6 @@ The chip or card that lets your computer connect to Wi-Fi or an Ethernet cable. 
 
 ---
 
-<Image src="image_agent_tag_18048216628420440985" alt="Basic computer hardware components diagram" caption="Basic parts inside a computer" />
-
----
-
 ## 📝 What I Learned Today
 
 - Computers speak **Binary** (`0` and `1`), but we use **Hexadecimal** to read it easily.
