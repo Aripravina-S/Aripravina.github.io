@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 4 — Software Types, Memory, and Storage Hierarchy"
-date: 2026-09-27 17:38:00 +0530
+date: 2026-10-05 18:02:00 +0530
 categories:
   - Computer Fundamentals
 tags:
