@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 7 — Computer Ports and Physical Connectors"
-date: 2026-10-10 18:06:00 +0530
+date: 2026-10-10 18:08:00 +0530
 categories:
   - Computer Fundamentals
 tags:
